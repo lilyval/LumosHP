@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.lumoshp.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.lumoshp.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-mergeDebugResources-30:/layout/fragment_profile.xml",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-mergeDebugResources-30:/layout/fragment_home.xml",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-mergeDebugResources-30:/layout/fragment_searchfragment.xml",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_searchfragment.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-mergeDebugResources-30:/layout/fragment_srfragment.xml",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_srfragment.xml"
+    },
+    {
+        "merged": "com.example.lumoshp.app-mergeDebugResources-30:/layout/fragment_home.xml",
+        "source": "com.example.lumoshp.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-mergeDebugResources-30:/layout/fragment_notif.xml",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_notif.xml"
+    }
+]

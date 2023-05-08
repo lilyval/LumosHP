@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/layout_fragment_srfragment.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_srfragment.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/layout_fragment_profile.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/drawable_message_icon.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/drawable/message_icon.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/layout_fragment_notif.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_notif.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/layout_fragment_searchfragment.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_searchfragment.xml"
+    },
+    {
+        "merged": "com.example.lumoshp.app-merged_res-31:/layout_fragment_home.xml.flat",
+        "source": "com.example.lumoshp.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/drawable_transparentlogo.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/drawable/transparentlogo.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/drawable_profile_icon.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/drawable/profile_icon.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/menu_bottom_navigationmenu.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/menu/bottom_navigationmenu.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.lumoshp.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.lumoshp.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/layout_fragment_home.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/drawable_search_icon.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-merged_res-31:/drawable_house_icon.xml.flat",
+        "source": "/Users/lily/.gradle/daemon/7.5/com.example.lumoshp.app-main-33:/drawable/house_icon.xml"
+    }
+]
